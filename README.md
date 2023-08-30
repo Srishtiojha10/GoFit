@@ -1,7 +1,7 @@
 <img src="./assets/showcase.png" width="100%">
 
   <h1 align="center"> GoFit </h1>
-<p align="center"><i>Staying fit should be a game : )</i></p>.
+<p align="center"><i>Staying fit should be a game!</i></p>
 
 <p align="left">Currently, we all are stuck inside our homes and it's hard for people to exercise or work out. Staying physically healthy is the most important thing right now in this covid situation.
 </p>
